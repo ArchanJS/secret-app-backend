@@ -5,7 +5,7 @@ const jwt = require('jsonwebtoken');
 const cors = require('cors');
 
 const app = express();
-const PORT = 8000;
+const PORT = 8989;
 
 const JWT_KEY = "KJSEBFKERFO3WRH49RHW39R8FDG839WFW409R4E80FHEW4";
 
